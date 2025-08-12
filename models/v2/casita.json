@@ -3,7 +3,7 @@
   "wake_word": "casita",
   "author": "adi",
   "website": "https://github.com/MasterPhooey/MicroWakeWord-Trainer-Docker",
-  "model": "casita.tflite",
+  "model": "https://raw.githubusercontent.com/netroy/micro-wake-word-models/refs/heads/main/models/casita.tflite",
   "trained_languages": [
     "en"
   ],
